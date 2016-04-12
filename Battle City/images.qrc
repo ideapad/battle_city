@@ -1,0 +1,51 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>logo.png</file>
+        <file>Menu.png</file>
+        <file>MenuItems.png</file>
+        <file>images/PlayerDown.png</file>
+        <file>images/PlayerLeft.png</file>
+        <file>images/PlayerRight.png</file>
+        <file>images/PlayerUp.png</file>
+        <file>images/EnemyDown.png</file>
+        <file>images/EnemyLeft.png</file>
+        <file>images/EnemyRight.png</file>
+        <file>images/EnemyUp.png</file>
+        <file>images/BulletLeft.png</file>
+        <file>images/bricks.png</file>
+        <file>images/border.png</file>
+        <file>images/bullet.png</file>
+    </qresource>
+    <qresource prefix="/">
+        <file>images/brick.png</file>
+        <file>images/green.png</file>
+        <file>images/metal.png</file>
+        <file>images/water.png</file>
+        <file>images/explosion1.png</file>
+        <file>images/explosion2.png</file>
+        <file>images/explosion3.png</file>
+        <file>images/explosion4.png</file>
+        <file>images/explosion5.png</file>
+        <file>images/base.png</file>
+        <file>images/enemycount.png</file>
+        <file>images/playerlifes.png</file>
+        <file>images/player1.png</file>
+        <file>images/0.png</file>
+        <file>images/1.png</file>
+        <file>images/2.png</file>
+        <file>images/3.png</file>
+        <file>images/explosion.png</file>
+        <file>images/Highscores.jpg</file>
+        <file>images/Player2Down.png</file>
+        <file>images/Player2Left.png</file>
+        <file>images/Player2Right.png</file>
+        <file>images/Player2Up.png</file>
+        <file>images/player2.png</file>
+        <file>images/menu.png</file>
+        <file>images/About.jpg</file>
+        <file>images/Control1.png</file>
+        <file>images/Control2.png</file>
+        <file>images/Control11.png</file>
+        <file>images/pause.png</file>
+    </qresource>
+</RCC>

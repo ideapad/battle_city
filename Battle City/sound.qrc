@@ -1,0 +1,18 @@
+<RCC>
+    <qresource prefix="/sound">
+        <file>sound.wav</file>
+        <file>shoot.wav</file>
+        <file>moving.wav</file>
+        <file>sounds/brickhit.wav</file>
+        <file>sounds/nmoving.wav</file>
+        <file>sounds/levelstarting.wav</file>
+        <file>sounds/1.wav</file>
+        <file>sounds/eexplosion.wav</file>
+        <file>sounds/sadviolin.wav</file>
+        <file>sounds/moving.wav</file>
+        <file>sounds/winner.wav</file>
+        <file>sounds/gameover.wav</file>
+        <file>sounds/steelhit.wav</file>
+        <file>sounds/pause.wav</file>
+    </qresource>
+</RCC>
